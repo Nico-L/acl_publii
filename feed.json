@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ACL",
+    "description": "",
+    "home_page_url": "https://github.com/Nico-L/acl_publii",
+    "feed_url": "https://github.com/Nico-L/acl_publii/feed.json",
+    "user_comment": "",
+    "icon": "https://github.com/Nico-L/acl_publii/media/website/headACL.png",
+    "author": {
+        "name": "bob"
+    },
+    "items": [
+    ]
+}
