@@ -10,5 +10,19 @@
         "name": "bob"
     },
     "items": [
+        {
+            "id": "https://github.com/Nico-L/acl_publii/test.html",
+            "url": "https://github.com/Nico-L/acl_publii/test.html",
+            "title": "Test !",
+            "summary": "Un petit test",
+            "content_html": "\n  <p>\n    Un petit test\n  </p>",
+            "author": {
+                "name": "bob"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-16T09:56:40+02:00",
+            "date_modified": "2023-05-16T09:56:40+02:00"
+        }
     ]
 }
