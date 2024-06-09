@@ -9,5 +9,19 @@
         "name": "Bob"
     },
     "items": [
+        {
+            "id": "https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html",
+            "url": "https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html",
+            "title": "Ceci est un essai",
+            "summary": "test 1test 2test 3",
+            "content_html": "\n  <ul>\n    <li>test 1</li><li>test 2</li><li>test 3</li>\n  </ul>",
+            "author": {
+                "name": "Bob"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-09T22:13:12+02:00",
+            "date_modified": "2024-06-09T22:13:12+02:00"
+        }
     ]
 }

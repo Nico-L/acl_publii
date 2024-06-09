@@ -3,10 +3,33 @@
     <title>acl</title>
     <link href="https://github.com/Nico-L/acl_publii/feed.xml" rel="self" />
     <link href="https://github.com/Nico-L/acl_publii" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-06-09T22:13:12+02:00</updated>
     <author>
         <name>Bob</name>
     </author>
     <id>https://github.com/Nico-L/acl_publii</id>
 
+    <entry>
+        <title>Ceci est un essai</title>
+        <author>
+            <name>Bob</name>
+        </author>
+        <link href="https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html"/>
+        <id>https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html</id>
+
+        <updated>2024-06-09T22:13:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test 1test 2test 3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <ul>
+    <li>test 1</li><li>test 2</li><li>test 3</li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
 </feed>
