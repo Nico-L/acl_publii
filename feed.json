@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://github.com/Nico-L/acl_publii/bob-le-retour.html",
+            "url": "https://github.com/Nico-L/acl_publii/bob-le-retour.html",
+            "title": "bob, le retour...",
+            "summary": "zut ?",
+            "content_html": "<p>zut ?</p>",
+            "author": {
+                "name": "Bob"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-09T22:19:10+02:00",
+            "date_modified": "2024-06-09T22:19:10+02:00"
+        },
+        {
             "id": "https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html",
             "url": "https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html",
             "title": "Ceci est un essai",
