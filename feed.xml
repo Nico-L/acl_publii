@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>acl</title>
+    <title>ACL</title>
     <link href="https://github.com/Nico-L/acl_publii/feed.xml" rel="self" />
     <link href="https://github.com/Nico-L/acl_publii" />
-    <updated>2024-06-09T22:19:10+02:00</updated>
+    <updated>2024-06-09T22:20:20+02:00</updated>
     <author>
-        <name>Bob</name>
+        <name>bob</name>
     </author>
     <id>https://github.com/Nico-L/acl_publii</id>
 
     <entry>
-        <title>bob, le retour...</title>
+        <title>Test Bob</title>
         <author>
-            <name>Bob</name>
+            <name>bob</name>
         </author>
-        <link href="https://github.com/Nico-L/acl_publii/bob-le-retour.html"/>
-        <id>https://github.com/Nico-L/acl_publii/bob-le-retour.html</id>
+        <link href="https://github.com/Nico-L/acl_publii/test-bob.html"/>
+        <id>https://github.com/Nico-L/acl_publii/test-bob.html</id>
 
-        <updated>2024-06-09T22:19:10+02:00</updated>
+        <updated>2024-06-09T22:20:20+02:00</updated>
             <summary>
                 <![CDATA[
-                    zut ?
+                    Bob est content ?
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>zut ?</p>
+                <p>Bob est content ?</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Ceci est un essai</title>
+        <title>Test !</title>
         <author>
-            <name>Bob</name>
+            <name>bob</name>
         </author>
-        <link href="https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html"/>
-        <id>https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html</id>
+        <link href="https://github.com/Nico-L/acl_publii/test.html"/>
+        <id>https://github.com/Nico-L/acl_publii/test.html</id>
 
-        <updated>2024-06-09T22:13:12+02:00</updated>
+        <updated>2023-05-16T09:56:40+02:00</updated>
             <summary>
                 <![CDATA[
-                    test 1test 2test 3
+                    Un petit test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-  <ul>
-    <li>test 1</li><li>test 2</li><li>test 3</li>
-  </ul>
+  <p>
+    Un petit test
+  </p>
             ]]>
         </content>
     </entry>

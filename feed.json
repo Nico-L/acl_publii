@@ -1,41 +1,42 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "acl",
+    "title": "ACL",
     "description": "",
     "home_page_url": "https://github.com/Nico-L/acl_publii",
     "feed_url": "https://github.com/Nico-L/acl_publii/feed.json",
     "user_comment": "",
+    "icon": "https://github.com/Nico-L/acl_publii/media/website/headACL.png",
     "author": {
-        "name": "Bob"
+        "name": "bob"
     },
     "items": [
         {
-            "id": "https://github.com/Nico-L/acl_publii/bob-le-retour.html",
-            "url": "https://github.com/Nico-L/acl_publii/bob-le-retour.html",
-            "title": "bob, le retour...",
-            "summary": "zut ?",
-            "content_html": "<p>zut ?</p>",
+            "id": "https://github.com/Nico-L/acl_publii/test-bob.html",
+            "url": "https://github.com/Nico-L/acl_publii/test-bob.html",
+            "title": "Test Bob",
+            "summary": "Bob est content ?",
+            "content_html": "<p>Bob est content ?</p>",
             "author": {
-                "name": "Bob"
+                "name": "bob"
             },
             "tags": [
             ],
-            "date_published": "2024-06-09T22:19:10+02:00",
-            "date_modified": "2024-06-09T22:19:10+02:00"
+            "date_published": "2024-06-09T22:20:20+02:00",
+            "date_modified": "2024-06-09T22:20:20+02:00"
         },
         {
-            "id": "https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html",
-            "url": "https://github.com/Nico-L/acl_publii/ceci-est-un-essai.html",
-            "title": "Ceci est un essai",
-            "summary": "test 1test 2test 3",
-            "content_html": "\n  <ul>\n    <li>test 1</li><li>test 2</li><li>test 3</li>\n  </ul>",
+            "id": "https://github.com/Nico-L/acl_publii/test.html",
+            "url": "https://github.com/Nico-L/acl_publii/test.html",
+            "title": "Test !",
+            "summary": "Un petit test",
+            "content_html": "\n  <p>\n    Un petit test\n  </p>",
             "author": {
-                "name": "Bob"
+                "name": "bob"
             },
             "tags": [
             ],
-            "date_published": "2024-06-09T22:13:12+02:00",
-            "date_modified": "2024-06-09T22:13:12+02:00"
+            "date_published": "2023-05-16T09:56:40+02:00",
+            "date_modified": "2023-05-16T09:56:40+02:00"
         }
     ]
 }
