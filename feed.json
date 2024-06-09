@@ -1,28 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "ACL",
+    "title": "acl",
     "description": "",
     "home_page_url": "https://github.com/Nico-L/acl_publii",
     "feed_url": "https://github.com/Nico-L/acl_publii/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/Nico-L/acl_publii/media/website/headACL.png",
     "author": {
-        "name": "bob"
+        "name": "Bob"
     },
     "items": [
-        {
-            "id": "https://github.com/Nico-L/acl_publii/test.html",
-            "url": "https://github.com/Nico-L/acl_publii/test.html",
-            "title": "Test !",
-            "summary": "Un petit test",
-            "content_html": "\n  <p>\n    Un petit test\n  </p>",
-            "author": {
-                "name": "bob"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-16T09:56:40+02:00",
-            "date_modified": "2023-05-16T09:56:40+02:00"
-        }
     ]
 }
